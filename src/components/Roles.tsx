@@ -8,7 +8,7 @@ const Roles = () => {
   return (
     <div>
           <div>
-          <div className='mt-[1880px] flex gap-10 justify-center relative'>
+          <div className='mt-[1880px] flex  justify-center relative'>
             <img src={qa} className='' alt="" />
             <img src={softwareeng} className='-ml-[100px] m  w-[365px] h-[261px]' alt="" />
             <img src={data} alt="" className='w-[359px] h-[225px]'/>
@@ -22,7 +22,7 @@ const Roles = () => {
             <img src={halfelipse} className='absolute -mt-[100px]' alt="" />
         </div>
       </div>
-      <div className='w-[1530px] h-[935px]' style={{ background: 'linear-gradient(195.65deg, #0196F9 15.35%, #2B95ED 28.04%, rgba(20, 203, 213, 0.7) 83.04%)' }}>
+      <div className='w-[1440px] h-[935px]' style={{ background: 'linear-gradient(195.65deg, #0196F9 15.35%, #2B95ED 28.04%, rgba(20, 203, 213, 0.7) 83.04%)' }}>
         <p className='text-center mt-[200px] absolute text-[50px] ml-[30%] font-[500] text-white'>And our students agree . . .</p>
       <div className="w-[603px] h-[307px] bg-white absolute mt-[400px] ml-[30%]  rounded-[25px] shadow-lg flex flex-col items-center text-center">
       {/* Paragraph */}

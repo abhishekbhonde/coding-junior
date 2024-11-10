@@ -19,7 +19,7 @@ const Learning = () => {
       </div>
 
       {/* Card 1 - Before the Line */}
-      <div className="w-[542px] h-[298px] bg-white rounded-[16px] shadow-2xl absolute mt-[450px] ml-[135px] p-6 text-left">
+      <div className="w-[542px] h-[298px] bg-white rounded-[16px] shadow-2xl absolute mt-[450px] ml-[100px] p-6 text-left">
         <div className='bg-[#4ABCAE] w-[86px] h-[86px] rounded-full absolute -mt-[70px] ml-[200px]'>
           <p className='font-normal text-white text-[60px] text-center '>1  </p>
         </div>
@@ -36,7 +36,7 @@ const Learning = () => {
 
 
       {/* Card 3 - After the Line */}
-      <div className="w-[542px] h-[298px] bg-white rounded-[16px] shadow-2xl absolute mt-[550px] ml-[850px] p-6 text-left">
+      <div className="w-[542px] h-[298px] bg-white rounded-[16px] shadow-2xl absolute mt-[550px] ml-[800px] p-6 text-left">
         <img src={vector43} className="absolute -ml-[25px] -mt-[25px]" alt="Vector 13" />
         <img src={line3} className="absolute -ml-[100px] mt-[100px]" alt="Line 2" />
         <div className="flex mt-[50px] gap-2">
