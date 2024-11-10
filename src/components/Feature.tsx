@@ -1,4 +1,3 @@
-import React from 'react';
 import graduation from '../assets/landing Page2/Graduation Invitation.png';
 import imagegenerator from '../assets/landing Page2/imgaegenerate.png';
 import image13 from '../assets/landing Page2/image 13.png'

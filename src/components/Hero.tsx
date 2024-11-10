@@ -1,4 +1,3 @@
-import React from "react";
 import mac from "../assets/mac.png";
 import university from "../assets/university.png";
 import office from "../assets/Office.png";

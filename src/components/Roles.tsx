@@ -1,4 +1,3 @@
-import React from 'react'
 import aiengineer from '../assets/rolesimages/aiengineer.png'
 import data from '../assets/rolesimages/data.png'
 import softwareeng from '../assets/rolesimages/software.png'

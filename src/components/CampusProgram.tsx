@@ -1,4 +1,3 @@
-import React from 'react'
 import ornament from '../assets/campusProgram/Ornament.jpg'
 import image12 from '../assets/campusProgram/image.png'
 import image113 from '../assets/campusProgram/image 112.png'

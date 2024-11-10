@@ -1,4 +1,3 @@
-import React from 'react';
 import line from '../assets/Line 125.png';
 import vector from '../assets/Vector.png';
 import vector13 from '../assets/Vector 33.png';
